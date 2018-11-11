@@ -1,8 +1,10 @@
 # Bitgram
 ## A simple program to turn your text files into bitmaps
 
-Usage: bitgram [SOURCE] [DESTINATION]
-For help type: bitgram h 
+Usage: bitgram [SOURCE] [DESTINATION] 
+
+For help type: bitgram h    
+
 
 ```
 /*  
