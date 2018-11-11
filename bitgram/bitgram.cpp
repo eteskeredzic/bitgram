@@ -105,9 +105,7 @@ if(argc == 2 && *argv[1] == 'h'){ // if the help section is called
     std::cout<<"This is a very simple program that turns your files into bitmaps.\n";
     std::cout<<"Call with: bitgram [source] [destination]\n";
     std::cout<<"Made by Edvin Teskeredzic 2018 - github.com/eteskeredzic\n";
-    std::cout<<"\n===========================================================================\n";
-    std::cout<<"HELP";
-
+    std::cout<<"===========================================================================\n";
 }
 else if(argc != 3){ // if there is an error, report it to the error stream
     std::cerr<<"\n===========================================================================\n";
